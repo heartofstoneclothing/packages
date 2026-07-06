@@ -1,5 +1,5 @@
 {
-  "name": "packages",
+  "name": "@krsantowski/packages",
   "version": "1.0.0",
   "description": "A learning repository focused on understanding packages, their structure, dependency management, installation, publishing concepts, and practical usage in software development.",
   "keywords": [
