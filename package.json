@@ -1,0 +1,23 @@
+{
+  "name": "packages",
+  "version": "1.0.0",
+  "description": "A learning repository focused on understanding packages, their structure, dependency management, installation, publishing concepts, and practical usage in software development.",
+  "keywords": [
+    "packages"
+  ],
+  "homepage": "https://github.com/heartofstoneclothing/packages#readme",
+  "bugs": {
+    "url": "https://github.com/heartofstoneclothing/packages/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heartofstoneclothing/packages.git"
+  },
+  "license": "MIT",
+  "author": "Kyle Santowski",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
